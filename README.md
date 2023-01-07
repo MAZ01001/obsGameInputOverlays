@@ -1,6 +1,6 @@
 # obsGameInputOverlays
 
-Ready to use OBS Input Overlays for specific games
+Free overlays for the Input Overlays OBS plugin.
 
 ## What
 
@@ -8,7 +8,7 @@ Ready to use OBS Input Overlays for specific games
 
 ## How
 
-The files (for each game) you need are the "layers_table.png" image and the "overlay.json" layout file.
+The files (for each game) you need are the layout image ("layers_table.png") and the layout config file ("overlay.json").
 
 Store these two files somewhere OBS can see them, and then in OBS, add an "InputOverlay" and add these two files to it, done.
 
@@ -19,19 +19,19 @@ To modify keybindings, put both files in the [official input overlay online edit
 and click on an image and select "Edit selected element" on the right.
 
 You might need to move the canvas with one right click and stop moving with one left click to see the image.
-Because these are HQ images and the zoom is not big enough.
+Because these are HQ images and zooming out is not enough.
 
 Then on the left, there is an input field labeled "Keycode" where you input your key
 (the site should detect any button press and update this field) to apply hit OK.
 
-When you're ready, select "Export to JSON" and now that's your new "overlay.json" file with your custom keybindings.
+When you're ready, select "Export to JSON" and now that's your new layout config file ("overlay.json") with your custom keybindings.
 
 </details>
 
 ## Games
 
 <details open>
-<summary>Supported Games</summary>
+<summary>Supported games list</summary>
 
 - [BattleBlock Theater](./battleblocktheater/#What)
 
