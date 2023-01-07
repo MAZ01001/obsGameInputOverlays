@@ -33,7 +33,7 @@ When you're ready, select "Export to JSON" and now that's your new layout config
 <details open>
 <summary>Supported games list</summary>
 
-- [BattleBlock Theater](./battleblocktheater/#What)
+- [BattleBlock Theater®](./battleblocktheater/README.md#what)
 
 </details>
 
