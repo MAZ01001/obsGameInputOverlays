@@ -42,4 +42,4 @@ When you're ready, select "Export to JSON" and now that's your new layout config
 If you use these overlays, I would appreciate it if you credit me / this page as I did draw the images and did the layout myself (with the online editor),
 but it's not necessary.
 
-Also, see [the GitHub page for the Input-Overlay plugin](https://github.com/univrsal/input-overlay).
+Also, see [the GitHub page for the Input-Overlay plugin](https://github.com/univrsal/input-overlay) (to be clear, I'm not the author of the plugin).
