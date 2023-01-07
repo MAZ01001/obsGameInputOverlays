@@ -1,6 +1,6 @@
 # obsGameInputOverlays
 
-Free overlays for the Input Overlays OBS plugin.
+Free overlays for the Input Overlay OBS plugin.
 
 ## What
 
