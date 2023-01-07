@@ -12,7 +12,7 @@ The files (for each game) you need are the "layers_table.png" image and the "ove
 
 Store these two files somewhere OBS can see them, and then in OBS, add an "InputOverlay" and add these two files to it, done.
 
-<details open>
+<details closed>
 <summary>Change keybindings</summary>
 
 To modify keybindings, put both files in the [official input overlay online editor](https://univrsal.github.io/input-overlay/cct/)
