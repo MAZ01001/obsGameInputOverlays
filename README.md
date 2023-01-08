@@ -6,6 +6,8 @@ Free overlays for the Input Overlay OBS plugin.
 
 [Input Overlay](https://obsproject.com/forum/resources/input-overlay.552/) is a free [OBS](https://obsproject.com/) plugin to show controller input while gaming and stuff.
 
+To be clear, I'm not the author of the plugin.
+
 ## How
 
 The files (for each game) you need are the layout image ("layers_table.png") and the layout config file ("overlay.json").
@@ -42,4 +44,6 @@ When you're ready, select "Export to JSON" and now that's your new layout config
 If you use these overlays, I would appreciate it if you credit me / this page as I did draw the images and did the layout myself (with the online editor),
 but it's not necessary.
 
-Also, see [the GitHub page for the Input-Overlay plugin](https://github.com/univrsal/input-overlay) (to be clear, I'm not the author of the plugin).
+Also, see [the GitHub page for the Input-Overlay plugin](https://github.com/univrsal/input-overlay).
+
+Again, I'm not the author of the plugin.
