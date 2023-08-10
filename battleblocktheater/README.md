@@ -6,9 +6,29 @@
 
 ## Preview
 
-<img src="./layers_preview.png" height="200" title="Previw of the input overlay" alt="Previw of the input overlay"/>
+<img src="./layers_preview.png" height="200" title="Previw of the input overlay" alt="Previw of the input overlay">
 
 Each icon is grayed out until the corresponding key is pressed.
+
+### Keybindings
+
+(Keyboard)
+
+<details open><summary>Click to toggle table</summary>
+
+| Action             | Key             | Image                  |
+| ------------------ | --------------- | ---------------------- |
+| Move               | `W` `A` `S` `D` | Yellow arrows          |
+| Cry for help       | `Q`             | Help                   |
+| Jump               | `Space`         | Jump button            |
+| Attack             | `H`             | Punch                  |
+| Special attack     | `U`             | Fireball (incl. hands) |
+| Swap special       | `J`             | Blue Arrows            |
+| Grip / lend a hand | `K`             | Hand on pipe           |
+
+</details>
+
+[_change keybindings tutorial_](../README.md#change-keybindings)
 
 ## Files
 
