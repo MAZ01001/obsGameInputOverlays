@@ -1,0 +1,203 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 1393,
+    "overlay_height": 1479,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                574,
+                436
+            ],
+            "id": "left",
+            "z_level": "0",
+            "mapping": [
+                1,
+                1,
+                190,
+                519
+            ],
+            "code": 61003
+        },
+        {
+            "type": 1,
+            "pos": [
+                639,
+                1031
+            ],
+            "id": "boost",
+            "z_level": "0",
+            "mapping": [
+                391,
+                737,
+                741,
+                448
+            ],
+            "code": 42
+        },
+        {
+            "type": 1,
+            "pos": [
+                771,
+                314
+            ],
+            "id": "forward",
+            "z_level": "0",
+            "mapping": [
+                391,
+                1,
+                448,
+                365
+            ],
+            "code": 61000
+        },
+        {
+            "type": 1,
+            "pos": [
+                1199,
+                436
+            ],
+            "id": "right",
+            "z_level": "0",
+            "mapping": [
+                194,
+                1,
+                194,
+                497
+            ],
+            "code": 61005
+        },
+        {
+            "type": 1,
+            "pos": [
+                765,
+                707
+            ],
+            "id": "backwards",
+            "z_level": "0",
+            "mapping": [
+                842,
+                1,
+                455,
+                316
+            ],
+            "code": 61008
+        },
+        {
+            "type": 1,
+            "pos": [
+                217,
+                646
+            ],
+            "id": "boost top",
+            "z_level": "0",
+            "mapping": [
+                1348,
+                629,
+                225,
+                352
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                470,
+                872
+            ],
+            "id": "boost right",
+            "z_level": "0",
+            "mapping": [
+                194,
+                1001,
+                191,
+                295
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                251,
+                1133
+            ],
+            "id": "boost bottom",
+            "z_level": "0",
+            "mapping": [
+                1,
+                1045,
+                170,
+                235
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                809
+            ],
+            "id": "boost left",
+            "z_level": "0",
+            "mapping": [
+                1135,
+                639,
+                210,
+                365
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                233,
+                275
+            ],
+            "id": "horn",
+            "z_level": "0",
+            "mapping": [
+                1681,
+                1,
+                336,
+                385
+            ],
+            "code": 45
+        },
+        {
+            "type": 1,
+            "pos": [
+                805,
+                0
+            ],
+            "id": "jump",
+            "z_level": "0",
+            "mapping": [
+                1300,
+                1,
+                378,
+                311
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                499,
+                119
+            ],
+            "id": "reset",
+            "z_level": "0",
+            "mapping": [
+                1576,
+                777,
+                217,
+                295
+            ],
+            "code": 19
+        }
+    ]
+}

@@ -32,11 +32,8 @@ To change keybindings, follow the steps below. Alternatively, you could manually
 
 ## Games
 
-<details open><summary>Click to toggle list</summary>
-
-- [BattleBlock Theater®](./battleblocktheater/README.md#what "Open README for BattleBlock Theater overlay")
-
-</details>
+- [BattleBlock Theater®](./battleblocktheater/README.md#what "Open README for BattleBlock Theater® overlay")
+- [Distance](./distance/README.md#what "Open README for Distance overlay")
 
 ## Credits
 
