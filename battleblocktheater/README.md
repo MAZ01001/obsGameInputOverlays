@@ -6,7 +6,7 @@
 
 ## Preview
 
-<img src="./layers_preview.png" height="200" title="Previw of the input overlay" alt="Previw of the input overlay">
+<img src="./layers_preview.png" width="350" title="Previw of the input overlay" alt="Previw of the input overlay">
 
 Each icon is grayed out until the corresponding key is pressed.
 
@@ -28,9 +28,9 @@ Each icon is grayed out until the corresponding key is pressed.
 
 </details>
 
-[_change keybindings tutorial_](../README.md#change-keybindings)
+[_change keybindings tutorial_](../README.md#change-keybindings "Go back to change keybindings tutorial")
 
 ## Files
 
-- [layout image](./layers_table.png)
-- [layout config](./overlay.json)
+- [layout image](./layers_table.png "open layers_table.png file")
+- [layout config](./overlay.json "open overlay.json file")
