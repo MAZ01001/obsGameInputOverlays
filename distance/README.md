@@ -1,6 +1,6 @@
 # What
 
-[Distance](https://store.steampowered.com/app/233610/Distance/ "View Steam® store page") is a 2D platformer by [Refract Studios](https://store.steampowered.com/developer/refract "View Steam® developer page") available on [Steam®](https://store.steampowered.com/ "View website").
+[Distance](https://store.steampowered.com/app/233610/Distance/ "View Steam® store page") is an atmospheric racing platformer by [Refract Studios](https://store.steampowered.com/developer/refract "View Steam® developer page") available on [Steam®](https://store.steampowered.com/ "View website").
 
 [![Distance header image on Steam®](https://cdn.akamai.steamstatic.com/steam/apps/233610/header.jpg)](https://store.steampowered.com/app/233610/Distance/ "View Steam® store page")
 
