@@ -34,6 +34,7 @@ To change keybindings, follow the steps below. Alternatively, you could manually
 
 - [BattleBlock Theater®](./battleblocktheater/README.md#what "Open README for BattleBlock Theater® overlay")
 - [Distance](./distance/README.md#what "Open README for Distance overlay")
+- Trackmania → use [open**planet**](https://openplanet.dev/ "Official openplanet website") with the [dashboard](https://openplanet.dev/plugin/dashboard "[Openplanet] Dashboard plugin by Miss") plugin
 
 ## Credits
 
